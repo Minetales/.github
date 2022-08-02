@@ -1,1 +1,3 @@
-![Void_cube.png](Minetales.png)
+![Minetales Banner](Minetales.png)
+
+https://minetales.net
