@@ -1,3 +1,3 @@
 # Minetales
 
-![Void_cube.png](void_cube.png)
+![Void_cube.png](./images/void_cube.png)
