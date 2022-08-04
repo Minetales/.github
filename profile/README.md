@@ -26,3 +26,39 @@
 
 ---
 
+<br>
+
+## What is our current team?
+
+> Our current team is composed of **23** pearls, which are the following:  
+> ### **Admins**: (1)
+> - Kalou *as* Owner *&* Java Developer
+> ### **Developers**: (6)
+> - Alexmdz77 *as* Discord Bot Developer  
+> - Elikill58 *as* Java Developer  
+> - Nathael *as* Web Developer  
+> - Quentin *as* Infrastructure Developer  
+> - ROOT *as* Java Developer  
+> - vic256 *as* Web Developer
+> ### **System Administrator**: (1)
+> - Idotek
+> ### **Game Designers**: (5)
+> - Ariel  
+> - Ashurahh  
+> - FlameofChange  
+> - Karasuu  
+> - Weyyner
+> ### **Graphic artists**: (1)
+> - TOURNE_VIS *as* Graphic Designer *&* 3D modeler
+> ### **Builders**: (7)
+> - Le mec d'Olivia  
+> - Lord
+> - LordDytar  
+> - Lykos *as* Interior Builder  
+> - Mailhingg *as* Terraformer  
+> - Medozark  
+> - Prestige  
+> ## **Redaction**: (1)
+> - Pioulul
+> ## **Moderation**: (1)
+> - SkayiZen
