@@ -10,7 +10,7 @@
 
 <br>
 
-## What can we do actually on **Minetales**?
+## What can we actually do on **Minetales**?
 
 > For now, **Minetales** is a in-progress project. We plan on releasing the server on a public beta, with 2 clusters around the world: **USA** & **West Europe**.  
 > If you want to support us, you can [donate](https://www.paypal.com/donate/?hosted_button_id=K27NTHNSCHVH4) us the amount of your choice, or join our [Discord](https://discord.gg/Rv5xRBRVDj) and spread the word among your friends that **Minetales** is coming soon!
