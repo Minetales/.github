@@ -48,7 +48,7 @@
 > - FlameofChange  
 > - Karasuu  
 > - Weyyner
-> ### **Graphic artists**: (1)
+> ### **Graphic artists**: (2)
 > - Tao *as* 3D modeler
 > - TOURNE_VIS *as* Graphic Designer *&* 3D modeler
 > ### **Builders**: (7)
