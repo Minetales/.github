@@ -30,7 +30,7 @@
 
 ## What is our current team?
 
-> Our current team is composed of **24** pearls, which are the following:  
+> Our current team is composed of **23** pearls, which are the following:  
 > ### **Admins**: (1)
 > - Kalou *as* Owner *&* Java Developer
 > ### **Developers**: (6)
@@ -57,7 +57,6 @@
 > - Lykos *as* Interior Builder  
 > - Mailhingg *as* Terraformer  
 > - Medozark  
-> - Prestige  
 > - Coucou_toi  
 > ## **Redaction**: (1)
 > - Pioulul
